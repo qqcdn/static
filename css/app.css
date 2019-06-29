@@ -218,8 +218,8 @@ a:focus{outline:0}
 ============================================================================= */
 @font-face {
   font-family: 'FontAwesome';
-  src: url('fontawesome-webfont.eot');
-  src: url('fontawesome-webfont.eot') format('embedded-opentype'), url('fontawesome-webfont.woff2') format('woff2'), url('fontawesome-webfont.woff') format('woff'), url('fontawesome-webfont.ttf') format('truetype');
+  src: url('//cdn.jsdelivr.net/gh/qqcdn/static/css/fontawesome-webfont.eot');
+  src: url('//cdn.jsdelivr.net/gh/qqcdn/static/css/fontawesome-webfont.eot') format('embedded-opentype'), url('//cdn.jsdelivr.net/gh/qqcdn/static/css/fontawesome-webfont.woff2') format('woff2'), url('//cdn.jsdelivr.net/gh/qqcdn/static/css/fontawesome-webfont.woff') format('woff'), url('//cdn.jsdelivr.net/gh/qqcdn/static/css/fontawesome-webfont.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -397,3 +397,26 @@ a:focus{outline:0}
   top: 0.14285714em;
   text-align: center;
 }
+
+.icon {display:inline-block; height:16px; width:16px; vertical-align:middle; no-repeat}
+.icon-other{background:url(img1.png) 0 0; no-repeat}
+.icon-ppt{background:url(img1.png) 0 -16px; no-repeat}
+.icon-music{background:url(img1.png) 0 -32px; no-repeat}
+.icon-zip{background:url(img1.png) 0 -48px; no-repeat}
+.icon-movie{background:url(img1.png) 0 -64px; no-repeat}
+.icon-word{background:url(img1.png) 0 -80px; no-repeat}
+.icon-www{background:url(img1.png) 0 -96px; no-repeat}
+.icon-txt{background:url(img1.png) 0 -112px; no-repeat}
+.icon-soft{background:url(img1.png) 0 -128px; no-repeat}
+.icon-srt{background:url(img1.png) 0 -144px; no-repeat}
+.icon-deb{background:url(img1.png) 0 -160px; no-repeat}
+.icon-epub{background:url(img1.png) 0 -176px; no-repeat}
+.icon-apk{background:url(img1.png) 0 -192px; no-repeat}
+.icon-bt{background:url(img1.png) 0 -208px; no-repeat}
+.icon-heart{background:url(img1.png) 0 -224px; no-repeat}
+.icon-mht{background:url(img1.png) 0 -240px; no-repeat}
+.icon-iso{background:url(img1.png) 0 -256px; no-repeat}
+.icon-ipa{background:url(img1.png) 0 -272px; no-repeat}
+.icon-img{background:url(img1.png) 0 -288px; no-repeat}
+.icon-mobi{background:url(img1.png) 0 -304px; no-repeat}
+.icon-excel{background:url(img1.png) 0 -320px; no-repeat}
