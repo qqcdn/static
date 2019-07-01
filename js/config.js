@@ -50,24 +50,18 @@ rf_img = "//cbu01.alicdn.com/img/ibank/2018/856/595/8581595658_1995781528.jpg"; 
 
 //导航上面广告
 
-aamenu=aamenu+"<div align=\"center\"><a href=\"#\" target=\"_blank\"><img src=\"//ps.ssl.qhmsg.com/t01a365b02f62706d7b.jpg\" width=\"100%\" border=\"0\"></a><\/div>";
-aamenu=aamenu+"<div align=\"center\"><a href=\"#\" target=\"_blank\"><img src=\"//ps.ssl.qhmsg.com/t0115b9cb9e71e8e543.jpg\" width=\"100%\" border=\"0\"></a><\/div>";
-aamenu=aamenu+"<div align=\"center\"><a href=\"#\" target=\"_blank\"><img src=\"//ps.ssl.qhmsg.com/t01afd49dc92803b8a0.jpg\" width=\"100%\" border=\"0\"></a><\/div>";
-aamenu=aamenu+"<div align=\"center\"><a href=\"#\" target=\"_blank\"><img src=\"//ps.ssl.qhmsg.com/t0193ec837557561735.jpg\" width=\"100%\" border=\"0\"></a><\/div>";
-aamenu=aamenu+"<div align=\"center\"><a href=\"#\" target=\"_blank\"><img src=\"//ps.ssl.qhmsg.com/t01202cbb6ce4d309c4.jpg\" width=\"100%\" border=\"0\"></a><\/div>";
-aamenu=aamenu+"<div align=\"center\"><a href=\"#\" target=\"_blank\"><img src=\"//ps.ssl.qhmsg.com/t01fb565509d7dbe257.jpg\" width=\"100%\" border=\"0\"></a><\/div>";
-aamenu=aamenu+"<div align=\"center\"><a href=\"#\" target=\"_blank\"><img src=\"//ps.ssl.qhmsg.com/t01a89a80d1f36f3d58.jpg\" width=\"100%\" border=\"0\"></a><\/div>";
+aamenu=aamenu+"<a href=\"#\" target=\"_blank\"><img src=\"//p.pstatp.com/origin/ffd700002d82266eb8ae\" width=\"100%\" border=\"0\"></a>";
 
 
 
 //底部广告960×60
-aafootbaner=aafootbaner+"<div align=\"center\"><a href=\"//www.po56.com\" target=\"_blank\"><img src=\"http://www.85fy.com/98060.gif\" width=\"980\" height=\"60\" border=\"0\"><\/a><\/div>";
-aafootbaner=aafootbaner+"<div align=\"center\"><a href=\"//vip7226.com\" target=\"_blank\"><img src=\"//sc02.alicdn.com/kf/UTB8E7a5jXPJXKJkSahV5jXyzFXaG.gif\" width=\"980\" height=\"60\" border=\"0\"><\/a><\/div>";
-aafootbaner=aafootbaner+"<div align=\"center\"><a href=\"//www.ggvnsr.com/5900.html\" target=\"_blank\"><img src=\"http://wx3.sinaimg.cn/large/0067ImIWgy1fhocubyle5g30qo01ojyv.gif\" width=\"980\" height=\"60\" border=\"0\"><\/a><\/div>";
-aafootbaner=aafootbaner+"<div align=\"center\"><a href=\"http://400ai.xzg449.com\" target=\"_blank\"><img src=\"http://cbu01.alicdn.com/img/ibank/2018/141/600/8826006141_872274545.jpg\" width=\"980\" height=\"60\" border=\"0\"><\/a><\/div>";
-aafootbaner=aafootbaner+"<div align=\"center\"><a href=\"http://www.tqcknmc.com\" target=\"_blank\"><img src=\"//img.alicdn.com/imgextra/i3/1731999033/TB2lAJufnlYBeNjSszcXXbwhFXa_!!1-martrix_bbs.gif\" width=\"980\" height=\"60\" border=\"0\"><\/a><\/div>";
-aafootbaner=aafootbaner+"<div align=\"center\"><a href=\"//vip4033.com\" target=\"_blank\"><img src=\"//sc02.alicdn.com/kf/UTB8OQMFjDzIXKJkSafV5jaWgXXam.gif\" width=\"980\" height=\"60\" border=\"0\"><\/a><\/div>";
-aafootbaner=aafootbaner+"<div align=\"center\"><a href=\"http://www.kyhbgrq.com\" target=\"_blank\"><img src=\"//img.alicdn.com/imgextra/i4/1731999033/TB2mDEtXY1YBuNjSszeXXablFXa_!!1-martrix_bbs.gif\" width=\"980\" height=\"60\" border=\"0\"><\/a><\/div>";
+aafootbaner=aafootbaner+"<div align=\"center\"><a href=\"//www.po56.com\" target=\"_blank\"><img src=\"http://www.85fy.com/98060.gif\" width=\"100%\" border=\"0\"></a><\/div>";
+aafootbaner=aafootbaner+"<div align=\"center\"><a href=\"//vip7226.com\" target=\"_blank\"><img src=\"//sc02.alicdn.com/kf/UTB8E7a5jXPJXKJkSahV5jXyzFXaG.gif\" width=\"100%\" border=\"0\"></a><\/div>";
+aafootbaner=aafootbaner+"<div align=\"center\"><a href=\"//www.ggvnsr.com/5900.html\" target=\"_blank\"><img src=\"http://wx3.sinaimg.cn/large/0067ImIWgy1fhocubyle5g30qo01ojyv.gif\"  width=\"100%\" border=\"0\"></a><\/div>";
+aafootbaner=aafootbaner+"<div align=\"center\"><a href=\"http://400ai.xzg449.com\" target=\"_blank\"><img src=\"http://cbu01.alicdn.com/img/ibank/2018/141/600/8826006141_872274545.jpg\" width=\"100%\" border=\"0\"></a><\/div>";
+aafootbaner=aafootbaner+"<div align=\"center\"><a href=\"http://www.tqcknmc.com\" target=\"_blank\"><img src=\"//img.alicdn.com/imgextra/i3/1731999033/TB2lAJufnlYBeNjSszcXXbwhFXa_!!1-martrix_bbs.gif\"  width=\"100%\" border=\"0\"></a><\/div>";
+aafootbaner=aafootbaner+"<div align=\"center\"><a href=\"//vip4033.com\" target=\"_blank\"><img src=\"//sc02.alicdn.com/kf/UTB8OQMFjDzIXKJkSafV5jaWgXXam.gif\" width=\"100%\" border=\"0\"></a><\/div>";
+aafootbaner=aafootbaner+"<div align=\"center\"><a href=\"http://www.kyhbgrq.com\" target=\"_blank\"><img src=\"//img.alicdn.com/imgextra/i4/1731999033/TB2mDEtXY1YBuNjSszeXXablFXa_!!1-martrix_bbs.gif\"  width=\"100%\" border=\"0\"></a><\/div>";
 
 //顶部邮件及链接
 mail = 'dizhi333@gmail.com';
