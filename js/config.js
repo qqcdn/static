@@ -1,3 +1,13 @@
+$(document).ready(function() {
+  $("#report a").click(function() {
+    $("#report").fadeTo("fast", 0.2);
+    $.get($(this).attr("data-href"), function(data) {
+      $("#report").empty().append(data).fadeTo("fast", 1.0);
+    });
+    return false;
+  });
+});
+
 function killErrors(){return true;}window.onerror=killErrors;
 
 var date = new Date();
@@ -35,7 +45,6 @@ var footlink="";
 var mail = '';
 var link = '';
 
-
 //漂浮
 /*-----
 lc_url = "http://suo.im/510gz9"; //左对联网址
@@ -51,8 +60,6 @@ rf_img = "//cbu01.alicdn.com/img/ibank/2018/856/595/8581595658_1995781528.jpg"; 
 //导航上面广告
 
 aamenu=aamenu+"<a href=\"#\" target=\"_blank\"><img src=\"//p.pstatp.com/origin/ffd700002d82266eb8ae\" width=\"100%\" border=\"0\"></a>";
-
-
 
 //底部广告960×60
 aafootbaner=aafootbaner+"<div align=\"center\"><a href=\"//www.po56.com\" target=\"_blank\"><img src=\"http://www.85fy.com/98060.gif\" width=\"100%\" border=\"0\"></a><\/div>";
