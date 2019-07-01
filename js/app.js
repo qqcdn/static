@@ -19,34 +19,3 @@ function createxmlHttpRequest() {
     }
     return xmlHttp;
 }
-
-
-var kkDapCtrl = null;
-function kkGetDapCtrl() {
-	if(null == kkDapCtrl) {
-	  try{
-	  	if (window.ActiveXObject) {
-	  	//if (navigator.userAgent.indexOf('MSIE') != -1) {
-				kkDapCtrl = new ActiveXObject("DapCtrl.DapCtrl");
-	  	}	else {
-				var browserPlugins = navigator.plugins;
-				for (var bpi=0; bpi<browserPlugins.length; bpi++) {
-					try {
-						if (browserPlugins[bpi].name.indexOf('Thunder DapCtrl') != -1) {
-							var e = document.createElement("object");
-							e.id = "dapctrl_history";
-							e.type = "application/x-thunder-dapctrl";
-							e.width = 0;
-							e.height = 0;
-							document.body.appendChild(e);
-							break;
-						}
-					} catch (e) {}
-				}
-				kkDapCtrl = document.getElementById('dapctrl_history');
-	  	}
-	  } catch(e) {}
-	}
-	return kkDapCtrl;
-}
-
