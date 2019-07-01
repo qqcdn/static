@@ -49,7 +49,7 @@ rf_img = "//cbu01.alicdn.com/img/ibank/2018/856/595/8581595658_1995781528.jpg"; 
 -----*/
 
 //导航上面广告
-/*-----
+
 aamenu=aamenu+"<div align=\"center\"><a href=\"#\" target=\"_blank\"><img src=\"//ps.ssl.qhmsg.com/t01a365b02f62706d7b.jpg\" width=\"100%\" border=\"0\"></a><\/div>";
 aamenu=aamenu+"<div align=\"center\"><a href=\"#\" target=\"_blank\"><img src=\"//ps.ssl.qhmsg.com/t0115b9cb9e71e8e543.jpg\" width=\"100%\" border=\"0\"></a><\/div>";
 aamenu=aamenu+"<div align=\"center\"><a href=\"#\" target=\"_blank\"><img src=\"//ps.ssl.qhmsg.com/t01afd49dc92803b8a0.jpg\" width=\"100%\" border=\"0\"></a><\/div>";
@@ -57,7 +57,7 @@ aamenu=aamenu+"<div align=\"center\"><a href=\"#\" target=\"_blank\"><img src=\"
 aamenu=aamenu+"<div align=\"center\"><a href=\"#\" target=\"_blank\"><img src=\"//ps.ssl.qhmsg.com/t01202cbb6ce4d309c4.jpg\" width=\"100%\" border=\"0\"></a><\/div>";
 aamenu=aamenu+"<div align=\"center\"><a href=\"#\" target=\"_blank\"><img src=\"//ps.ssl.qhmsg.com/t01fb565509d7dbe257.jpg\" width=\"100%\" border=\"0\"></a><\/div>";
 aamenu=aamenu+"<div align=\"center\"><a href=\"#\" target=\"_blank\"><img src=\"//ps.ssl.qhmsg.com/t01a89a80d1f36f3d58.jpg\" width=\"100%\" border=\"0\"></a><\/div>";
------*/
+
 
 
 //底部广告960×60
