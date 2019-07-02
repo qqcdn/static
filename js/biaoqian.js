@@ -252,6 +252,6 @@ document.writeln("种子下载");
 //投诉提示
 function tousu(){
 
-document.writeln("<p><a href=\"#\" target=\"_blank\">磁力仓库</a> 投诉邮箱：tousu@"+ document.domain.replace(/^(m.|www.)/g,'') +"</p>");
+document.writeln("<p><a href=\"/\" target=\"_blank\">磁力仓库</a> 投诉邮箱：tousu@"+ document.domain.replace(/^(m.|www.)/g,'') +"</p>");
 
 }
