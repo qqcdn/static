@@ -59,7 +59,7 @@ rf_img = "//cbu01.alicdn.com/img/ibank/2018/856/595/8581595658_1995781528.jpg"; 
 
 //导航上面广告
 
-aamenu=aamenu+"<img src=\"//p.pstatp.com/origin/ffd700002d82266eb8ae\" width=\"100%\" border=\"0\">";
+aamenu=aamenu+"<img class=\"am-show-md-up\" src=\"//p.pstatp.com/origin/ffd700002d82266eb8ae\" width=\"100%\" border=\"0\">";
 
 //底部广告960×60
 aafootbaner=aafootbaner+"<div align=\"center\"><a href=\"//www.po56.com\" target=\"_blank\"><img src=\"http://www.85fy.com/98060.gif\" width=\"100%\" border=\"0\"></a><\/div>";
