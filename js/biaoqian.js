@@ -248,6 +248,10 @@ function zhongzixiazai(){
 document.writeln("种子下载");
 }
 
+function chakanwanzhengwendangliebiao(){
+document.writeln("==查看完整文档列表==");
+}
+
 
 //投诉提示
 function tousu(){
@@ -255,3 +259,4 @@ function tousu(){
 document.writeln("<p><a href=\"/\" target=\"_blank\">磁力仓库</a> 投诉邮箱：tousu@"+ document.domain.replace(/^(m.|www.)/g,'') +"</p>");
 
 }
+
