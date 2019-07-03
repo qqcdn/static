@@ -271,7 +271,7 @@ document.writeln("Previous：");
 }
 
 function xiayige(){
-document.writeln("next：");
+document.writeln("Next：");
 }
 
 //Complaint
