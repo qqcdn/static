@@ -82,7 +82,7 @@ document.writeln("Hotness：");
 }
 
 function shoulu(){
-document.writeln("Added：");
+document.writeln("Add：");
 }
 
 function zuijin(){
