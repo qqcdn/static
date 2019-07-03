@@ -86,7 +86,7 @@ document.writeln("Added：");
 }
 
 function zuijin(){
-document.writeln("Recent Download：");
+document.writeln("Recent：");
 }
 
 function remensousuo(){
