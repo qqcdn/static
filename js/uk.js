@@ -261,7 +261,7 @@ document.writeln("==View full document list==");
 }
 
 function shangyige(){
-document.writeln("Previous：");
+document.writeln("Prev：");
 }
 
 function xiayige(){
