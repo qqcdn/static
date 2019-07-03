@@ -255,11 +255,11 @@ document.writeln("Magnetic");
 }
 
 function xunleixiazai(){
-document.writeln("Thunder");
+document.writeln("xunlei");
 }
 
 function zhongzixiazai(){
-document.writeln("download");
+document.writeln("down");
 }
 
 function chakanwanzhengwendangliebiao(){
