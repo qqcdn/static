@@ -251,7 +251,7 @@ document.writeln("Torrent Download");
 }
 
 function cililianjie(){
-document.writeln("Magnetic link");
+document.writeln("Magnetic");
 }
 
 function xunleixiazai(){
@@ -259,7 +259,7 @@ document.writeln("Thunder");
 }
 
 function zhongzixiazai(){
-document.writeln("Seed download");
+document.writeln("download");
 }
 
 function chakanwanzhengwendangliebiao(){
