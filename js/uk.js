@@ -1,54 +1,57 @@
-//Home
+
+
+//index.html
+
 function benyueremenbtzhongzi(){
-document.writeln("This month's popular BT seed");
+document.writeln("Monthly Hot Bt seed");
 }
 
 function benzhouremenbtzhongzi(){
-document.writeln("This week's hot BT seeds");
+document.writeln("Weekly Hot Bt seed");
 }
 
 function jinriremenbtzhongzi(){
-document.writeln("Today's Top BT Seeds");
+document.writeln("Daily Hot Bt seed");
 }
 
 function zuixinshoulucili(){
-document.writeln("the latest magnetic record");
+document.writeln("New Added");
 }
 
 function yingpianpaihangbang(){
-document.writeln("2019Video Leaderboard");
+document.writeln("2019 Film Rankings");
 }
 
 function zuixinmingxing(){
-document.writeln("latest star");
+document.writeln("New Star");
 }
 
 function zuixinfanhao(){
-document.writeln("newest number");
+document.writeln("New Film");
 }
 
 function btzhongzileixing(){
-document.writeln("BT seed type");
+document.writeln("Type");
 }
 
 function shipin(){
-document.writeln("video");
+document.writeln("Video");
 }
 
 function yinpin(){
-document.writeln("audio");
+document.writeln("Audio");
 }
 
 function wendang(){
-document.writeln("document");
+document.writeln("Document");
 }
 
 function ruanjian(){
-document.writeln("software/compressed package");
+document.writeln("Software/Zip Flie");
 }
 
 function tupian(){
-document.writeln("picture");
+document.writeln("Image");
 }
 
 function gaoqing(){
@@ -56,7 +59,7 @@ document.writeln("HD");
 }
 
 function youqinglianjie(){
-document.writeln("Friendly Link");
+document.writeln("Links");
 }
 
 function gengduo(){
@@ -64,41 +67,42 @@ document.writeln("More »");
 }
 
 
-// Search page
+//list.html
+
 function fenlei(){
-document.writeln("Classification:");
+document.writeln("Category：");
 }
 
 function daxiao(){
-document.writeln("Size:");
+document.writeln("Size：");
 }
 
 function redu(){
-document.writeln("Hot:");
+document.writeln("Hotness：");
 }
 
 function shoulu(){
-document.writeln("Include:");
+document.writeln("Added：");
 }
 
 function zuijin(){
-document.writeln("Recent:");
+document.writeln("Recent Download：");
 }
 
 function remensousuo(){
-document.writeln("hot search");
+document.writeln("Popular Search");
 }
 
 function tebietishi(){
-document.writeln("Special Tips");
+document.writeln("Reminder");
 }
 
 function tebietishi1(){
-document.writeln("This site does not store any resource content, only collects BT seed metadata and magnetic link. It is a completely legal search engine system. The website does not provide seed download service, nor is it responsible for the authenticity and legality of BT seeds. Please pay attention to the user!");
+document.writeln("This site does not store any resource content, only collects BT seed metadata and magnetic links, is a completely legal search engine system. The website does not provide seed download service, and is not responsible for the authenticity and legality of BT seeds. Please pay attention to the screening！");
 }
 
 function paixu(){
-document.writeln("sort:");
+document.writeln("Sort：");
 }
 
 function quanbu(){
@@ -106,7 +110,7 @@ document.writeln("All");
 }
 
 function yingshi(){
-document.writeln("film");
+document.writeln("Video");
 }
 
 function yinyue(){
@@ -114,134 +118,168 @@ document.writeln("Music");
 }
 
 function tuxiang(){
-document.writeln("image");
+document.writeln("Image");
 }
 
 function anzhuangbao(){
-document.writeln("installation package");
+document.writeln("Installer");
 }
 
 function yasuobao(){
-document.writeln("compressed package");
+document.writeln("Zip File");
 }
 
 function qita(){
-document.writeln("Other");
+document.writeln("Others");
 }
 
 function xiangsi(){
-document.writeln("similar");
+document.writeln("Related");
 }
 
 function redu1(){
-document.writeln("heat");
+document.writeln("Hotness");
 }
 
 function daxiao1(){
-document.writeln("size");
+document.writeln("Size");
 }
 
 function ruku(){
-document.writeln("inbound");
+document.writeln("Added");
 }
 
 function zuihou(){
-document.writeln("Recent Download");
+document.writeln("Last Download");
 }
 
 
 
 
-//content page
+//detail.html
 
 function btzhongzimingcheng(){
-document.writeln("BT seed name");
+document.writeln("Name");
 }
 
 function btzhongzijibenxinxi(){
-document.writeln("BT seed basic information");
+document.writeln("Details");
 }
 
 function xiazaidizhi(){
-document.writeln("download address");
+document.writeln("Download");
 }
 
 function wendangliebiao(){
-document.writeln("Document List");
+document.writeln("List");
 }
 
 function cainixihuan(){
-document.writeln("Guess you like");
+document.writeln("You like");
 }
 
 function zuixincililianjie(){
-document.writeln("Latest Magnet Link");
+document.writeln("New bt seed");
 }
 
 function zhongzibiaoqian(){
-document.writeln("seed tag");
+document.writeln("Tags");
 }
 
 function zhongzipingjia(){
-document.writeln("seed evaluation");
+document.writeln("Reviews");
 }
 
 function zuijinsousuo(){
-document.writeln("Recent Search");
+document.writeln("Recent search");
 }
 
 function renqimingxing(){
-document.writeln("popular star");
+document.writeln("Hot Star");
 }
 
 function zuixinfanhao(){
-document.writeln("newest number");
+document.writeln("New Film");
 }
 
 function zhongzihaxi(){
-document.writeln("seed hash:");
+document.writeln("INFOHASH：");
 }
 
 function wendangdaxiao(){
-document.writeln("Document size:");
+document.writeln("Size：");
 }
 
 function zhongzifenlei(){
-document.writeln("seed classification:");
+document.writeln("CATEGORY：");
 }
 
 function wendangshuliang(){
-document.writeln("number of documents:");
+document.writeln("Number of files：");
 }
 
 function xiazaicishu(){
-document.writeln("Downloads:");
+document.writeln("download times：");
 }
 
 function xiazaisudu(){
-document.writeln("Download speed:");
+document.writeln("download speed：");
 }
 
 function shoulushijian(){
-document.writeln("Include time:");
+document.writeln("Storage time：");
 }
 
 function zuijinxiazai(){
-document.writeln("Recently downloaded:");
+document.writeln("Last Download：");
 }
 
 function dmca(){
-document.writeln("DMCA/mask:");
+document.writeln("DMCA/shield：");
 }
 
 function cililianjie(){
-document.writeln("Magnetic Link");
+document.writeln("Magnet Link");
 }
 
 function xunleixiazai(){
-document.writeln("Thunder download");
+document.writeln("Download by Thunder");
 }
 
 function zhongzixiazai(){
-document.writeln("seed download");
+document.writeln("Torrent Download");
 }
+
+function cililianjie(){
+document.writeln("Magnetic link");
+}
+
+function xunleixiazai(){
+document.writeln("Thunder");
+}
+
+function zhongzixiazai(){
+document.writeln("Seed download");
+}
+
+function chakanwanzhengwendangliebiao(){
+document.writeln("==View full document list==");
+}
+
+function shangyige(){
+document.writeln("Previous：");
+}
+
+function xiayige(){
+document.writeln("next：");
+}
+
+//Complaint
+function tousu(){
+
+document.writeln("<p><a href=\"/\" target=\"_blank\">Magnetic warehouse</a> Complaint email：tousu@"+ document.domain.replace(/^(m.|www.)/g,'') +"</p>");
+
+}
+
+
+
