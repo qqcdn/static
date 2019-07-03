@@ -1,5 +1,3 @@
-
-
 //index.html
 
 function benyueremenbtzhongzi(){
@@ -24,10 +22,6 @@ document.writeln("2019 Film Rankings");
 
 function zuixinmingxing(){
 document.writeln("New Star");
-}
-
-function zuixinfanhao(){
-document.writeln("New Film");
 }
 
 function btzhongzileixing(){
@@ -280,6 +274,4 @@ function tousu(){
 document.writeln("<p><a href=\"/\" target=\"_blank\">Magnetic warehouse</a> Complaint email：tousu@"+ document.domain.replace(/^(m.|www.)/g,'') +"</p>");
 
 }
-
-
 
