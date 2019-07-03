@@ -171,7 +171,7 @@ document.writeln("Download");
 }
 
 function wendangliebiao(){
-document.writeln("List");
+document.writeln("File list");
 }
 
 function cainixihuan(){
@@ -259,7 +259,7 @@ document.writeln("xunlei");
 }
 
 function zhongzixiazai(){
-document.writeln("down");
+document.writeln("Download");
 }
 
 function chakanwanzhengwendangliebiao(){
