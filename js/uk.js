@@ -203,11 +203,11 @@ document.writeln("New Film");
 }
 
 function zhongzihaxi(){
-document.writeln("INFOHASH：");
+document.writeln("Info HASH：");
 }
 
 function wendangdaxiao(){
-document.writeln("Size：");
+document.writeln("File Size：");
 }
 
 function zhongzifenlei(){
