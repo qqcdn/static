@@ -70,7 +70,7 @@ document.writeln("More »");
 //list.html
 
 function fenlei(){
-document.writeln("Category：");
+document.writeln("Sort：");
 }
 
 function daxiao(){
@@ -78,7 +78,7 @@ document.writeln("Size：");
 }
 
 function redu(){
-document.writeln("Hotness：");
+document.writeln("View：");
 }
 
 function shoulu(){
