@@ -64,7 +64,7 @@ document.writeln("More »");
 }
 
 
-/ / Search page
+// Search page
 function fenlei(){
 document.writeln("Classification:");
 }
@@ -245,4 +245,3 @@ document.writeln("Thunder download");
 function zhongzixiazai(){
 document.writeln("seed download");
 }
-
