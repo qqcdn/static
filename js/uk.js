@@ -195,7 +195,7 @@ document.writeln("Recent search");
 }
 
 function renqimingxing(){
-document.writeln("Hot Star");
+document.writeln("Hot Celebrity");
 }
 
 function zuixinfanhao(){
