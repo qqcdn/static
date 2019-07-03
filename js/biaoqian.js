@@ -252,6 +252,13 @@ function chakanwanzhengwendangliebiao(){
 document.writeln("==查看完整文档列表==");
 }
 
+function shangyige(){
+document.writeln("上一个：");
+}
+
+function xiayige(){
+document.writeln("下一个：");
+}
 
 //投诉提示
 function tousu(){
