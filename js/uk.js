@@ -126,19 +126,19 @@ document.writeln("Installer");
 }
 
 function yasuobao(){
-document.writeln("Zip File");
+document.writeln("File");
 }
 
 function qita(){
-document.writeln("Others");
+document.writeln("Other");
 }
 
 function xiangsi(){
-document.writeln("Related");
+document.writeln("Similar");
 }
 
 function redu1(){
-document.writeln("Hotness");
+document.writeln("View");
 }
 
 function daxiao1(){
@@ -146,7 +146,7 @@ document.writeln("Size");
 }
 
 function ruku(){
-document.writeln("Added");
+document.writeln("Add");
 }
 
 function zuihou(){
