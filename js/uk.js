@@ -249,7 +249,7 @@ document.writeln("Magnetic");
 }
 
 function xunleixiazai(){
-document.writeln("xunlei");
+document.writeln("Thunder");
 }
 
 function zhongzixiazai(){
