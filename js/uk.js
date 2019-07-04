@@ -245,7 +245,7 @@ document.writeln("Torrent Download");
 }
 
 function cililianjie(){
-document.writeln("Magnetic");
+document.writeln("Bt link");
 }
 
 function xunleixiazai(){
