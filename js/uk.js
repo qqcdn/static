@@ -161,7 +161,7 @@ document.writeln("Details");
 }
 
 function xiazaidizhi(){
-document.writeln("Download");
+document.writeln("Download link");
 }
 
 function wendangliebiao(){
