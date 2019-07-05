@@ -184,7 +184,7 @@ $(function(){
 
 
 (() => {
-    let whiteList = ["122774.com", "cdn.jsdelivr.net", "bt99.uk", "btbtk.com"];
+    let whiteList = ["122774.com", "cdn.jsdelivr.net", "bt99.uk", "btbtk.com", "bthub.cc"];
     let replace = "www.bthub.cc";
 
     function strMatch(str) {
