@@ -233,18 +233,6 @@ document.writeln("DMCA/shield：");
 }
 
 function cililianjie(){
-document.writeln("Magnet Link");
-}
-
-function xunleixiazai(){
-document.writeln("Download by Thunder");
-}
-
-function zhongzixiazai(){
-document.writeln("Torrent Download");
-}
-
-function cililianjie(){
 document.writeln("uTorrent");
 }
 
