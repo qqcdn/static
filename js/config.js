@@ -184,7 +184,7 @@ $(function(){
 
 
 (() => {
-    let whiteList = ["www.122774.com", "cdn.jsdelivr.net", "www.bt99.uk"];
+    let whiteList = ["www.122774.com", "cdn.jsdelivr.net", "www.bt99.uk", "www.btbtk.com"];
     let replace = "www.bthub.cc";
 
     function strMatch(str) {
@@ -203,7 +203,7 @@ $(function(){
         .find("*")
         .each((index, ele) => {
             for (let i = 0; i < ele.childNodes.length; i++) {
-                if (ele.childNodes[i].nodeType === 3) {
+                if (ele.childNodes[i].nodeType === 4) {
                     ele.childNodes[i].nodeValue = strMatch(
                         ele.childNodes[i].nodeValue
                     );
