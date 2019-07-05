@@ -203,7 +203,7 @@ $(function(){
         .find("*")
         .each((index, ele) => {
             for (let i = 0; i < ele.childNodes.length; i++) {
-                if (ele.childNodes[i].nodeType === 4) {
+                if (ele.childNodes[i].nodeType === 3) {
                     ele.childNodes[i].nodeValue = strMatch(
                         ele.childNodes[i].nodeValue
                     );
