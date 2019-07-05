@@ -245,7 +245,7 @@ document.writeln("Torrent Download");
 }
 
 function cililianjie(){
-document.writeln("Bt link");
+document.writeln("uTorrent");
 }
 
 function xunleixiazai(){
