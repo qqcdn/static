@@ -225,7 +225,7 @@ document.writeln("Storage time：");
 }
 
 function zuijinxiazai(){
-document.writeln("Last Download：");
+document.writeln("Recently downloaded：");
 }
 
 function dmca(){
