@@ -144,7 +144,7 @@ document.writeln("Add");
 }
 
 function zuihou(){
-document.writeln("Last Download");
+document.writeln("Recent");
 }
 
 
