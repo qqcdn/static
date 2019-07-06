@@ -44,6 +44,7 @@ var aafootbaner="";
 var footlink="";
 var mail = '';
 var link = '';
+var detail = '';
 
 //漂浮
 /*-----
@@ -56,6 +57,11 @@ lf_img = "//cbu01.alicdn.com/img/ibank/2018/397/470/9379074793_1995781528.jpg"; 
 rf_url = "//hnqysljz.com/xj5020.php"; //右下角网址
 rf_img = "//cbu01.alicdn.com/img/ibank/2018/856/595/8581595658_1995781528.jpg"; //右下角图片
 -----*/
+
+//内容页广告
+
+detail=detail+"<img src=\"//p.pstatp.com/origin/ffd700002d82266eb8ae\" width=\"100%\" border=\"0\">";
+
 
 //导航上面广告
 
@@ -165,6 +171,10 @@ $(function(){
 		$("#aamenu").html(aamenu);
 	}
 
+	if ($("#detail").length>0){
+		$("#detail").html(detail);
+	}
+	
 	if ($("#aafootbaner").length>0){
 		$("#aafootbaner").html(aafootbaner);
 	}
@@ -211,3 +221,4 @@ $(function(){
             }
         });
 })();
+
