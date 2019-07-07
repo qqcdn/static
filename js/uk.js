@@ -259,7 +259,7 @@ document.writeln("Next：");
 //Complaint
 function tousu(){
 
-document.writeln("<p><a href=\"/\" target=\"_blank\">Magnetic</a> Complaint email：tousu@"+ document.domain.replace(/^(m.|www.)/g,'') +"</p>");
+document.writeln("<p>copyright <a href=\"/\" target=\"_blank\">Magnetic</a> email：tousu@"+ document.domain.replace(/^(m.|www.)/g,'') +"</p>");
 
 }
 
