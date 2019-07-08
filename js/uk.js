@@ -17,7 +17,7 @@ document.writeln("New Added");
 }
 
 function yingpianpaihangbang(){
-document.writeln("2019 Film Rankings");
+document.writeln("2019 Popular movie");
 }
 
 function zuixinmingxing(){
