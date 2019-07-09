@@ -65,7 +65,7 @@ detail=detail+"<a href=\"/\" target=\"_blank\"><img src=\"//ae01.alicdn.com/kf/U
 
 //导航上面广告
 
-aamenu=aamenu+"<img src=\"//ae01.alicdn.com/kf/UTB8QFRbPiaMiuJk43PT761SmXXam.png\" width=\"100%\" border=\"0\">";
+aamenu=aamenu+"<a href=\"//www.huiju.in\" target=\"_blank\"><img src=\"//ae01.alicdn.com/kf/HTB1n5cHXEY1gK0jSZFM761WcVXa7.png\" width=\"100%\" border=\"0\"></a>";
 
 //底部广告960×60
 aafootbaner=aafootbaner+"<div align=\"center\"><a href=\"//www.po56.com\" target=\"_blank\"><img src=\"http://www.85fy.com/98060.gif\" width=\"100%\" border=\"0\"></a><\/div>";
