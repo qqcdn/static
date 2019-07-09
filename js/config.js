@@ -60,7 +60,7 @@ rf_img = "//cbu01.alicdn.com/img/ibank/2018/856/595/8581595658_1995781528.jpg"; 
 
 //内容页广告
 
-detail=detail+"<img src=\"//ae01.alicdn.com/kf/UTB8xq92wKvJXKJkSajh5jc7aFXaY.gif\" width=\"100%\" border=\"0\">";
+detail=detail+"<a href=\"/\" target=\"_blank\"><img src=\"//ae01.alicdn.com/kf/UTB8xq92wKvJXKJkSajh5jc7aFXaY.gif\" width=\"100%\" border=\"0\"></a>";
 
 
 //导航上面广告
