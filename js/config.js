@@ -192,6 +192,19 @@ $(function(){
 	wrap.className = '';
 });
 
+function baidutongji(){
+document.writeln("<div style=\"display:none\" >");
+document.writeln("<script>");
+document.writeln("var _hmt = _hmt || [];");
+document.writeln("(function() {");
+document.writeln("  var hm = document.createElement(\"script\");");
+document.writeln("  hm.src = \"//hm.baidu.com/hm.js?3356430bf5769e796fe4ca700361344e\";");
+document.writeln("  var s = document.getElementsByTagName(\"script\")[0]; ");
+document.writeln("  s.parentNode.insertBefore(hm, s);");
+document.writeln("})();");
+document.writeln("</script>");
+document.writeln("</div>");
+}
 
 
 (() => {
