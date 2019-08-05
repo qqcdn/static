@@ -1,7 +1,7 @@
 //index.html
 
 function benyueremenbtzhongzi(){
-document.writeln("Monthly Hot Bt seed");
+document.writeln("Monthly  New Hot Torrent File");
 }
 
 function benzhouremenbtzhongzi(){
@@ -21,7 +21,7 @@ document.writeln("2019 Popular movie");
 }
 
 function zuixinmingxing(){
-document.writeln("New Star");
+document.writeln("Celebrity");
 }
 
 function btzhongzileixing(){
