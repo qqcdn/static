@@ -13,7 +13,7 @@ document.writeln("Daily Hot Bt seed");
 }
 
 function zuixinshoulucili(){
-document.writeln("New Added");
+document.writeln("New Torrent File");
 }
 
 function yingpianpaihangbang(){
